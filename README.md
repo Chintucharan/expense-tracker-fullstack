@@ -270,12 +270,6 @@ Distributed under the **Apache License 2.0**. See [`LICENSE`](./LICENSE) for det
 
 ---
 
-## 🙏 Acknowledgements
-
-This project builds on the original Expense Tracker created by **Buildwith.18** ([github.com/Buildwith18](https://github.com/Buildwith18)), released under Apache-2.0.
-
----
-
 ## 👤 Author
 
 **Gowni Venkat Charan** — B.Tech CSE, Madanapalle Institute of Technology and Science (MITS)
