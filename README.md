@@ -4,7 +4,6 @@
 
 ### A full-stack personal finance dashboard to record, categorize, and visualize your spending.
 
-[![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](./LICENSE)
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
@@ -133,8 +132,7 @@ expense-tracker-fullstack/
 ├── vite.config.ts        # Vite configuration
 ├── tailwind.config.js    # Tailwind CSS configuration
 ├── tsconfig*.json        # TypeScript configuration
-├── eslint.config.js      # ESLint configuration
-└── LICENSE               # Apache License 2.0
+└── eslint.config.js      # ESLint configuration
 ```
 
 ---
@@ -261,12 +259,6 @@ Contributions, issues, and feature requests are welcome.
 3. Commit your changes: `git commit -m "Add your feature"`
 4. Push the branch: `git push origin feature/your-feature`
 5. Open a Pull Request
-
----
-
-## 📄 License
-
-Distributed under the **Apache License 2.0**. See [`LICENSE`](./LICENSE) for details.
 
 ---
 
